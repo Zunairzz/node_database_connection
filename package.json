@@ -1,0 +1,16 @@
+{
+  "name": "node_project",
+  "version": "1.0.0",
+  "description": "in this project i can cover the node tasks",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zunair",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
